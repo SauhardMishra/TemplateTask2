@@ -73,3 +73,17 @@ body {
   height: inherit;
   margin-left: 9%;
 }
+
+/* Footer CSS */
+
+#footer
+{
+    background-color: gray;
+    overflow: hidden;
+    padding-right: 5%;
+}
+#footer p
+{
+    float: right;
+    padding: 30px 10px;
+}
