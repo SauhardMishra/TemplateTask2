@@ -33,14 +33,14 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: rgb(0, 140, 34);
   color: black;
 }
 
-.topnav a.active {
+/* .topnav a.active {
   background-color: rgb(0, 140, 34);
   color: white;
-}
+} */
 
 /* Main Content CSS */
 
